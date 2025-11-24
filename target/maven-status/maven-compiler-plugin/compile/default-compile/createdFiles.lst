@@ -1,0 +1,14 @@
+com\hotel\reservas\model\Reserva.class
+com\hotel\reservas\controller\ReservaController$ReservaRequest.class
+com\hotel\reservas\model\Cliente.class
+com\hotel\reservas\service\ReservaService.class
+com\hotel\reservas\repository\HotelRepository.class
+com\hotel\reservas\model\Hotel$Habitacion.class
+com\hotel\reservas\ReservasHotelApplication.class
+com\hotel\reservas\controller\ClienteController.class
+com\hotel\reservas\controller\HotelController.class
+com\hotel\reservas\controller\ReservaController.class
+com\hotel\reservas\model\Hotel.class
+com\hotel\reservas\repository\ClienteRepository.class
+com\hotel\reservas\repository\ReservaRepository.class
+com\hotel\reservas\controller\ReservaQueryController.class
