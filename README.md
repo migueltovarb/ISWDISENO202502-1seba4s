@@ -17,7 +17,3 @@ Este proyecto es una API REST para la gestión de reservas de hoteles, desarroll
 1. Configura tu conexión a MongoDB Atlas en `src/main/resources/application.properties`.
 2. Ejecuta la aplicación desde Eclipse o con `./mvnw spring-boot:run`.
 3. Prueba los endpoints con Postman.
-
----
-
-A continuación se generarán los archivos y carpetas base del proyecto.
